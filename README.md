@@ -1,16 +1,19 @@
-## Hi there 👋
+Hi, I'm Samuel 👋
 
-<!--
-**SamuelBirru/SamuelBirru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CS (B.S.E.) at Princeton '28, minoring in Statistics & Machine Learning. I build AI agents and the backend systems they run on.
 
-Here are some ideas to get you started:
+🛰️ Building fieldagent, an AI field engineer that diagnoses failed satellite terminals from logs, configs and fleet telemetry
+💼 Product Engineer Intern at InvestedInc; previously SWE intern at ST Engineering iDirect (C++ on satellite terminals) and Amazon (SQL/Java data pipelines)
+🎓 Gates Scholar · Jack Kent Cooke Scholar · Amazon Future Engineer
+Projects
+Project	What it does	Stack
+fieldagent	Agent that investigates failed satellite terminals through sandboxed read-only tools and recommends a fix, dispatch, or escalation with cited evidence. Solved 24/24 hard benchmark cases vs. 4/24 for a rules baseline; 57% lower token cost with prompt caching.	Python, Claude API, pytest, GitHub Actions
+wikivsrag	Compares RAG against AI-generated knowledge bases for scientific research, with LaTeX-aware retrieval across 100 physics papers.	Python, FAISS, SPECTER2, Claude
+HandController	Control Mixxx DJ software with hand gestures from a webcam.	Python, MediaPipe, OpenCV
+Tools I use
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Languages: Python · TypeScript · JavaScript · C++ · Java · SQL · C Frameworks: React · Next.js · FastAPI · PyTorch · scikit-learn · pandas Infra: Firebase · AWS S3 · Vercel · Netlify · Linux · Git
+
+Get in touch
+
+LinkedIn · samuel.birru@princeton.edu
